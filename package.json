@@ -1,0 +1,26 @@
+{
+  "name": "blackandwhite",
+  "version": "1.0.0",
+  "description": "lack and White Image , change to color on hover or click",
+  "main": "src/blackandwhite.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/internetperu/BlackAndWhite.git"
+  },
+  "keywords": [
+    "javascript",
+    "blackandwhite",
+    "colour",
+    "change",
+    "standalone"
+  ],
+  "author": "Internet Perú SAC (Jack Rojas)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/internetperu/BlackAndWhite/issues"
+  },
+  "homepage": "https://github.com/internetperu/BlackAndWhite#readme"
+}
